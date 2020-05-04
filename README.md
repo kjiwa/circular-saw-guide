@@ -1,6 +1,6 @@
 # Parameterized Circular Saw Guide
 
-This is a parameterized model for a circular saw guide that I created as an exercise in parametric design with OpenSCAD. This is a work in progress as I work through implementing the design. You can expect the design to change as I work through an actual build of the guide.
+This is a parameterized model for a circular saw guide that I created as an exercise in parametric design with OpenSCAD. This is a work in progress as I work through the build.
 
 I have been targeting the Ryobi P508 cordless brushless saw for this design, but I have tested rendering the design with rough specifications for saws with different dimensions. Below are side-by-side comparisons of the outputs for the following saws:
 
