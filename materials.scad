@@ -5,7 +5,7 @@ module board(length, width, thickness) {
 module pipe(diameter, length, thickness) {
   color("silver") difference() {
     cylinder(r=diameter / 2, h=length, center=true);
-    translate([0, 0, -1]) cylinder(r=diameter / 2 - thickness, h=length + 2, center=true);
+    cylinder(r=diameter / 2 - thickness, h=length + 2, center=true);
   }
 }
 
